@@ -1,0 +1,7 @@
+- **Expo RN Template [JS ONLY]**
+    - Starting Template
+    - Expo-Updates
+    - Expo Vector Icons (upgraded from rneui - was not visible in build)
+    - Permissions - Camera, Photos, Notifications, Location
+    - Redux Toolkit
+    - Utils - [API_Request Handler, Promise Timeout, Force Logout]
